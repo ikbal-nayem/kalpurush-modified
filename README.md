@@ -1,6 +1,6 @@
 # Kalpurush Font Modification for pdfMake
 
-A modified version of the Kalpurush font optimized for use with the pdfMake JavaScript library.
+A modified version of the Kalpurush font optimized for use with [pdfMake](https://github.com/bpampuch/pdfmake) JavaScript library.
 
 ## Problem Statement
 
@@ -27,3 +27,6 @@ This repository contains:
 ## Font Files
 - `Kalpurush-mod.ttf` - Regular font with fixed 'kar' signs
 - `Kalpurush-mod-Bold.ttf` - Bold version of the font
+
+## References
+- [pdfMake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript
